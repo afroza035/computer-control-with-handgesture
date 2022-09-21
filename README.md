@@ -1,12 +1,14 @@
-# PROJECT NAME is computer-control-with-handgesture
+# PROJECT NAME
 
-- Using Python
+- computer-control-with-handgesture
+
+* Using Python
 
 ---
 
 ## Teacher Name
 
-- ***
+1.
 
 ## Group Members
 
