@@ -48,7 +48,7 @@ while True:
                     ring_y = screen_height / frame_height * y
                     print('outside', abs(index_y - middle_y - ring_y))
 
-                    image = pyautogui.screenshot()
-                    image.save("IMG.jpg")
+                    # image = pyautogui.screenshot()
+                    # image.save("IMG.jpg")
     cv2.imshow('virtual mouse',frame)
     cv2.waitKey(1)
